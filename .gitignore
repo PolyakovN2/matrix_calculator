@@ -1,0 +1,14 @@
+build/
+out/
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.exe
+.vscode/
+.idea/
+.cache/
+compile_commands.json
+docs/html/
+*.bak
